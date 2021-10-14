@@ -1,0 +1,11 @@
+C:\Users\mdcac\source\repos\BooGir\BooGir\bin\Debug\BooGir.exe.config
+C:\Users\mdcac\source\repos\BooGir\BooGir\bin\Debug\BooGir.exe
+C:\Users\mdcac\source\repos\BooGir\BooGir\bin\Debug\BooGir.pdb
+C:\Users\mdcac\source\repos\BooGir\BooGir\obj\Debug\BooGir.csproj.AssemblyReference.cache
+C:\Users\mdcac\source\repos\BooGir\BooGir\obj\Debug\BooGir.Properties.Resources.resources
+C:\Users\mdcac\source\repos\BooGir\BooGir\obj\Debug\BooGir.csproj.GenerateResource.cache
+C:\Users\mdcac\source\repos\BooGir\BooGir\obj\Debug\BooGir.csproj.CoreCompileInputs.cache
+C:\Users\mdcac\source\repos\BooGir\BooGir\obj\Debug\BooGir.exe
+C:\Users\mdcac\source\repos\BooGir\BooGir\obj\Debug\BooGir.pdb
+C:\Users\mdcac\source\repos\BooGir\BooGir\obj\Debug\BooGir.frmPrincipal.resources
+C:\Users\mdcac\source\repos\BooGir\BooGir\obj\Debug\BooGir.Forms.Facturar.resources
